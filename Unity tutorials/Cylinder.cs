@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Cylinder : MonoBehaviour
 {
+    //Active and Destory
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +15,6 @@ public class Cylinder : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Destroy(gameObject);
     }
 }
