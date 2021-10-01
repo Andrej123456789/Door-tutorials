@@ -6,4 +6,4 @@ Only C++ files.
 
 # Other GitHubs
 https://github.com/ringwormGO/ringwormGO (ringwormGO)
-https://github.com/Andrej123456789/Door-Project (Door Company)
+https://github.com/Andrej123456789/Door-Project (Door Project)
