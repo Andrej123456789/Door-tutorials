@@ -1,3 +1,5 @@
+'YouTube link: https://www.youtube.com/watch?v=FHcHZXSlz_w
+
 Imports System
 Imports System.Net.NetworkInformation
 Imports System.Text
